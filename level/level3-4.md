@@ -41,30 +41,8 @@ ssh bandit3@bandit.labs.overthewire.org -p 2220
 
 ## Commands Used
  
-- `whoami`  
-  Shows the current logged-in user (helpful to confirm which user you are).
-
-- `pwd`  
-  Prints the current working directory (shows where you are in the filesystem).
-
-- `ls`  
-  Lists files and directories in the current location.
-
-- `cd`  
-  The cd (change directory) command in Linux is used to navigate between different directories in the file system.
-
-- `cat`  
-  Displays the contents of the file.
-
-- `file`  
-  helps you identify file types (e.g., ASCII text, image, etc.).
-
 - `find`  
   used to search for files and directories within a specified location.for locating files by name in directories.
 
 - `du`  
   disk usage
-
-- `ls -al`
-  ls -al is a Linux command that lists all files and directories, including hidden ones, in a detailed format showing permissions, ownership, size, and modification time.
-
