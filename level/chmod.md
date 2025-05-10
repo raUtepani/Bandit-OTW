@@ -1,0 +1,1 @@
+The chmod command in Unix/Linux is used to change the permissions of files or directories. Permissions define who can read, write, or execute a file. There are two main ways to use chmod: symbolic mode and numeric (octal) mode.
