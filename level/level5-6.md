@@ -36,7 +36,7 @@ du -a -b ./maybehere* | grep 1033
 
 ![level 5](/image/level5.png)
 
-![level 5](/image/level55.png)
+![level 5](/image/level5II.png)
 
 - password is : `HWasnPhtq9AVKe0dmk45nxy20cvUa6EG`
 - use this password to login as a `bandit6` in the next level.
